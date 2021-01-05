@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Xwatson/react-ssr#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
